@@ -23,6 +23,7 @@ class UnidadesController extends Controller
         return view("Unidades/vbUnidades_list",compact('unidades','title','valor'));
     }
 
+    
     public function ver(Request $request,$id)
     {
         $valor = $request->session()->get('eUsuario', 'default');
