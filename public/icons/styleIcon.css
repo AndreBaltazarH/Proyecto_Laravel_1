@@ -1,0 +1,59 @@
+.iconDelete {
+    background: url('/icons/imagenes/icons8_trash_3.ico');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+    display: block;
+    /* Other styles here */
+}
+
+.iconEdit {
+    background: url('/icons/imagenes/icons8_pencil_tip.ico');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+    display: block;
+    /* Other styles here */
+}
+
+.iconVer {
+    background: url('/icons/imagenes/icons8_search_1.ico');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+    display: block;
+    /* Other styles here */
+}
+
+.iconCasa {
+    background: url('/icons/imagenes/icons8_home_1.ico');
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline-block;
+    height:32px;
+    width:32px;
+    /* Other styles here */
+}
+
+.iconUnidad {
+    background: url('/icons/imagenes/icons8_books.ico');
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline-block;
+    height:32px;
+    width:32px;
+    /* Other styles here */
+}
+
+.iconDireccion {
+    background: url('/icons/imagenes/icons8_phone_office_2.ico');
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline-block;
+    height:32px;
+    width:32px;
+    /* Other styles here */
+}

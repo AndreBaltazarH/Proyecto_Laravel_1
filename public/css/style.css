@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #055b82;
+}
+
+.id_img_fondo {    
+    width: 200px; /* en porcentaje (el highlight del foro lo trasforma) */
+    height: 50px;
+    top:0;
+    left:0;
+    z-index: -1;   
+}
